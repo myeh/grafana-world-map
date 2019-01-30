@@ -12,6 +12,12 @@
     "name": "Ashburn"
   },
   {
+    "key": "yyz",
+    "latitude": 43.6532,
+    "longitude": 79.3832,
+    "name": "Toronto"
+  },
+  {
     "key": "paris",
     "latitude": 48.93330001831055,
     "longitude": 2.3666999340057373,
