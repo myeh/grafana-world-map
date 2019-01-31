@@ -12,11 +12,53 @@
     "name": "Ashburn"
   },
   {
+    "key": "ams",
+    "latitude": 52.349998474121094,
+    "longitude": 4.9166998863220215,
+    "name": "Amsterdam"
+  },
+  {
+    "key": "mum1",
+    "latitude": 19.0760,
+    "longitude": 72.8777, 
+    "name": "Mumbai"
+  },
+  {
+    "key": "nrt",
+    "latitude": 35.765278,
+    "longitude": 140.385556, 
+    "name": "Narita"
+  },
+  {
+    "key": "pao",
+    "latitude": 37.4419,
+    "longitude": -122.1430, 
+    "name": "Palo Alto"
+  },
+  {
+    "key": "use1",
+    "latitude": 37.926868,
+    "longitude": -78.024902, 
+    "name": "AWS USE1"
+  },
+  {
+    "key": "aws-us-west1",
+    "latitude": 37.6485, 
+    "longitude": -118.9721, 
+    "name": "AWS USW1"
+  },    
+  {
+    "key": "yvr",
+    "latitude": 49.1967, 
+    "longitude": -123.1815,
+    "name": "Vancouver"
+  },    
+  {
     "key": "yyz",
     "latitude": 43.6532,
     "longitude": -79.3832,
     "name": "Toronto"
-  },
+  },  
   {
     "key": "paris",
     "latitude": 48.93330001831055,
@@ -66,7 +108,7 @@
     "name": "Seattle"
   },
   {
-    "key": "sydney",
+    "key": "syd",
     "latitude": -33.86149978637695,
     "longitude": 151.20599365234375,
     "name": "Sydney"
@@ -77,12 +119,7 @@
     "longitude": 139.75599670410156,
     "name": "Tokyo"
   },
-  {
-    "key": "ams",
-    "latitude": 52.349998474121094,
-    "longitude": 4.9166998863220215,
-    "name": "Amsterdam"
-  },
+
   {
     "key": "atlanta",
     "latitude": 33.749000549316406,
